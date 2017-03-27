@@ -575,3 +575,11 @@ footer a:hover, footer a:focus {
   }
 
 }
+
+@media (min-width: 1400px) {
+
+  .jumbotron-text {
+    left: 18%;
+  }
+
+}
