@@ -566,6 +566,10 @@ footer a:hover, footer a:focus {
 
 @media (min-width: 1200px) {
 
+  .jumbotron-video {
+    background-image: none;
+  }
+
   .jumbotron-text {
     left: 5%;
   }
